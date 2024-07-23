@@ -1,7 +1,7 @@
 package main
 import(
 	"fmt"
-	"mygo/MyUtil_Package"
+	"1Go/MyUtil_Package"
 )
 
 func main(){
