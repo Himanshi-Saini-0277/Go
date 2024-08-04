@@ -19,6 +19,6 @@ func main(){
 	str1 := "Himanshi"
 	str2 := "Saini"
 
-	d := strings.Join([]string{str1,str2}, " ")
+	d := strings.Join([]string{str1,str2, "Badwal"}, " ")
 	fmt.Println(d)
 }
