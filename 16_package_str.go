@@ -15,4 +15,10 @@ func main(){
 	fmt.Println(a)
 	fmt.Println(b)
 	fmt.Println(c)
+
+	str1 := "Himanshi"
+	str2 := "Saini"
+
+	d := strings.Join([]string{str1,str2}, " ")
+	fmt.Println(d)
 }
